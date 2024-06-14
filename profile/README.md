@@ -14,6 +14,9 @@ Your data, your money, your consent.
 **User Consent:** All chat data is sold only with full consent of all chat participants.
 
 [www.ChatPay.app](https://www.ChatPay.app)
-[ChatPay mini-app](https://www.ChatPay.app/tg)
+
+[ChatPay mini-app](https://t.me/chatpayapp_bot/chatpayapp)
+
 [X / Twitter](https://x.com/chatpay_app)
+
 [Discord](https://discord.gg/sNCfQcXk)
