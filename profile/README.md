@@ -20,3 +20,9 @@ Your data, your money, your consent.
 [X / Twitter](https://x.com/chatpay_app)
 
 [Discord](https://discord.gg/sNCfQcXk)
+
+[Telegram Channel](https://t.me/ChatPayApp)
+
+[Telegram Chat](https://t.me/ChatPayCommunity)
+
+[Zealy](https://zealy.io/cw/chatpay/questboard)
